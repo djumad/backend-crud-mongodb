@@ -1,0 +1,11 @@
+[2025-04-17 23:11:04] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:11:55] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:12:36] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:13:06] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:13:22] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:14:11] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:14:37] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:15:13] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:16:52] ERROR: POST /api/v1/create - data tidak valid
+[2025-04-17 23:17:33] ERROR: POST /api/v1/produk/create - data tidak valid
+[2025-04-17 23:19:34] ERROR: POST /api/v1/produk/create - produks validation failed: harga: Cast to Number failed for value "100000n" (type bigint) at path "harga" because of "TypeError"
